@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="pt_BR">
 <head>
     <meta charset="UTF-8">
@@ -37,7 +37,7 @@
                 <li><a href="https://www.magazineluiza.com.br/pc-completo-gamer-com-monitor-lcd-8gb-30-jogos-imperiums/p/jdfh3eecj1/in/cptg/">Magazine Luiza</a></li>
 <a href="https://www.magazineluiza.com.br/pc-completo-gamer-com-monitor-lcd-8gb-30-jogos-imperiums/p/jdfh3eecj1/in/cptg/" target="_blank" title="Computador Magazine Luiza"><img src="computadormaga.png" widht="200" height="100"></a>
             </ul>
-        </li>
+        
         <li>Fármacos
             <ul>
                 <li><a href="https://www.drogariaminasbrasil.com.br/cimegripe-com-20-comprimidos">Genéricos para gripe</a></li>
@@ -46,11 +46,11 @@
 <a href="https://vcdelivery.com.br/remedios-e-medicamentos/varizes-e-hemorroidas/proctosan-pomada-20g-c-1-aplicador" target="_blank" title="Pomada para hemorróida"><img src="hemorroide.png" widht="200" height="100"></a>
           </ul>
     </li>
-</figure>
 
 
 
 
 
-</body>
-</html>
+
+
+
